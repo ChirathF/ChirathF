@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/chirath_fonseka" target="blank"><img src="https://img.shields.io/twitter/follow/chirath_fonseka?logo=twitter&style=for-the-badge" alt="chirath_fonseka" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Angular, React**
+- 🌱 I’m currently learning **Power Apps, AI Agents & Digital Transformation**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **Spring Boot, Angular, MS SQL & .Net Core**
 
 - 📫 How to reach me **chirathfonseka98@gmail.com**
 
